@@ -43,7 +43,7 @@ let isMarried = false
 let country = "India"
 let age = 22
 
-// Declare variables to store your first name, last name, marital status, country and age in a single line
+// Declare variables to storeSDF your first name, last name, marital status, country and age in a single line
 let firstname = "Jeet", lastname = "Kavthiya", ismarried = false, Country = "India", Age = 22
 
 // Declare two variables myAge and yourAge and assign them initial values and log to the browser console.

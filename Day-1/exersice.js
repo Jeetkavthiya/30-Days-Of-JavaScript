@@ -31,7 +31,7 @@ let c
 let d
 
 // Declare four variables with assigned values
-let e = 1
+let e = 21
 let f = 2
 let g = 3
 let h = 4

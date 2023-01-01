@@ -118,6 +118,6 @@ console.log(Math.floor(Math.random() * 256))
 let st1 = 'JavaScript'
 console.log(st1[Math.floor(Math.random() * (st1.length + 1))])
 
-// Use substr to slice out the phrase because because because from the following sentence:'You cannot end a sentence with because because because is a conjunction'
+// Use substr slice out the phrase because because because from the following sentence:'You cannot end a sentence with because because because is a conjunction'
 let sentence = 'You cannot end a sentence with because because because is a conjunction'
 console.log(sentence.slice(32, 55))

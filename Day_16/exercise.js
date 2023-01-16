@@ -120,7 +120,7 @@ const isMarriedJSON = JSON.stringify(isMarried)
 const studentJSON = JSON.stringify(student)
 
 
-// Exercises Level 2
+// Exercises : Level 2
 
 // Stringify the students object with only firstName, lastName and skills properties
 const txt1 = JSON.stringify(user, ['firstName', 'lastName', 'skills'], 4)
